@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
@@ -44,11 +43,19 @@ function App() {
           <footer>
             <p>
               This project was coded by
-              <a href="https://github.com/shaz93" target="_blank">
+              <a
+                href="https://github.com/shaz93"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Sheron Ndimande
               </a>{" "}
               and is
-              <a href="https://github.com/shaz93/WeatherApp" target="_blank">
+              <a
+                href="https://github.com/shaz93/WeatherApp"
+                target="_blank"
+                rel="noreferrer"
+              >
                 {" "}
                 on GitHub
               </a>{" "}
@@ -56,6 +63,7 @@ function App() {
               <a
                 href="https://graceful-yeot-250b21.netlify.app"
                 target="_blank"
+                rel="noreferrer"
               >
                 hosted on Netlify
               </a>
